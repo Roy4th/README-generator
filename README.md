@@ -21,6 +21,7 @@ Copyright (c) 2022
 for more information about MIT License click [link](https://opensource.org/licenses/MIT)
   # Contribution
   if you would like to contribute to the project feel free to post in the issues tab of this repository.
+  - Paul
   # Questions
   If you have any question you can contact here: 
   [Roy4th](github.com/Roy4th)
